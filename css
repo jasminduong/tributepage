@@ -1,0 +1,99 @@
+#main {
+  color: #1b1b32;
+  font-family: Avenir;
+}
+
+header {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #FFF9E9;
+}
+
+h1 {
+  font-weight: 1000;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 10px;
+}
+
+#image {
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  border-radius: 5px;
+  height: auto;
+  max-width: 100%
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+
+#tribute-info {
+  background-color: #F3FFF7;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 1000;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
+
+ul {
+  padding-left: 30%;
+  padding-right: 25%
+}
+
+li {
+  padding-bottom: 5px;
+  padding-left: 5px
+}
+
+#tribute-quote {
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+p {
+  text-align: center;
+  font-size: 14px;
+}
+
+#read-more {
+  background-color: #FFF4F3;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#bold {
+  font-weight: 500;
+}
+
+#italic {
+  font-style: italic;
+}
+
+#blue {
+  color: #64C3EE;
+}
+
+#pink {
+  color: #F87BAB;
+}
